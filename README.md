@@ -21,7 +21,7 @@ We have divided our project into three modules:
     -	Small size and ease of installation.
     -	Its large support base and proper documentation.
 
-    ![logo_coppelia](data/CoppeliaSim.png)
+    ![logo_coppelia](data/chnchl di.jpeg)
 
     To visit the site [click here](https://www.coppeliarobotics.com/)
 
@@ -40,7 +40,7 @@ We have divided our project into three modules:
 - ## Building python script for gesture recognition.
     For gesture recognition we have used mediapipe's hand tracking solution.
 
-    ![mediapipe](/data/logo_horizontal_color.png)
+    ![mediapipe](data/logo_horizontal_color.png)
     
     Mediapipe offers cross-platform, customizable ML solutions for live and streaming media.
 
