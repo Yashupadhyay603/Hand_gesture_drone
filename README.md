@@ -21,7 +21,7 @@ We have divided our project into three modules:
     -	Small size and ease of installation.
     -	Its large support base and proper documentation.
 
-    ![logo_coppelia](data\CoppeliaSim.png)
+    ![logo_coppelia](data/CoppeliaSim.png)
 
     To visit the site [click here](https://www.coppeliarobotics.com/)
 
@@ -40,7 +40,7 @@ We have divided our project into three modules:
 - ## Building python script for gesture recognition.
     For gesture recognition we have used mediapipe's hand tracking solution.
 
-    ![mediapipe](data\logo_horizontal_color.png)
+    ![mediapipe](data/logo_horizontal_color.png)
     
     Mediapipe offers cross-platform, customizable ML solutions for live and streaming media.
 
@@ -52,12 +52,12 @@ We have divided our project into three modules:
 
     MediaPipe Hands utilizes an ML pipeline consisting of multiple models working together: A palm detection model that operates on the full image and returns an oriented hand bounding box. A hand landmark model that operates on the cropped image region defined by the palm detector and returns high-fidelity 3D hand keypoints.
 
-    ![multiple_model](data\image1.png)
+    ![multiple_model](data/image1.png)
     
     <br>
     
     #### Detected hand landmarks
-    ![tracked](data\hand_landmarks.png)
+    ![tracked](data/hand_landmarks.png)
 
             
 ## Working demo
