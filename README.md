@@ -40,7 +40,7 @@ We have divided our project into three modules:
 - ## Building python script for gesture recognition.
     For gesture recognition we have used mediapipe's hand tracking solution.
 
-    ![mediapipe](data/logo_horizontal_color.png)
+    ![mediapipe](/data/logo_horizontal_color.png)
     
     Mediapipe offers cross-platform, customizable ML solutions for live and streaming media.
 
