@@ -21,7 +21,7 @@ We have divided our project into three modules:
     -	Small size and ease of installation.
     -	Its large support base and proper documentation.
 
-    ![logo_coppelia](data/chnchl_di.jpeg)
+    ![logo_coppelia](data/CoppeliaSim.png)
 
     To visit the site [click here](https://www.coppeliarobotics.com/)
 
