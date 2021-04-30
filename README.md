@@ -62,7 +62,12 @@ We have divided our project into three modules:
             
 ## Working demo
 
-To see working demo of our implementation [click here](https://youtu.be/G5uDVJVV_ik) 
+We have worked on three different variations of gesture control.
+
+- #### Finger counter gesture control implementation [(YouTube Video link)]( https://youtu.be/3E_KKwZ79Xw)
+- #### Hand gesture and position control implementation (Without Rotation) [(YouTube Video link)]( https://youtu.be/olwRYUzL2Xk)
+- #### Hand gesture and position control implementation (With Rotation) [(YouTube Video link)]( https://youtu.be/Gsw6FX4Z5RQ)
+
     
     
 
