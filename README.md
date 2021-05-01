@@ -21,7 +21,7 @@ We have divided our project into three modules:
     -	Small size and ease of installation.
     -	Its large support base and proper documentation.
 
-    <img src="data/coppeliasim.jpg" height=300 width=300>
+    <img src="data/coppeliasim.jpg" height=300 width=400>
 
     To visit the site [click here](https://www.coppeliarobotics.com/)
 
@@ -40,7 +40,7 @@ We have divided our project into three modules:
 - ## Building python script for gesture recognition.
     For gesture recognition we have used mediapipe's hand tracking solution.
 
-    <img src="data/logo_horizontal_color.png" height=300 width=300>
+    <img src="data/logo_horizontal_color.png" height=200 width=400>
     
     Mediapipe offers cross-platform, customizable ML solutions for live and streaming media.
 
@@ -68,8 +68,8 @@ We have divided our project into three modules:
 
     - ### Hand Position based approach : In this method drone will be commanded using the position of hand in the frame of image. Some example pictures are given below:
     
-    <img src="data/Capture2.JPG" height=300>
-    <img src="data/Capture3.JPG" height=300>
+    <img src="data/Capture2.JPG" height=300 width=300>
+    <img src="data/Capture3.JPG" height=300 width=300>
     
             
 ## Working demo
